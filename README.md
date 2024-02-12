@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <strong>I'm a huge gameplay and tools programmer who loves to design and develop game-focused applications. </strong>
-  
-│────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰────────│
+  <strong>I'm a huge gameplay and tools programmer who loves to design and develop game-focused applications. </strong><br><br>
+│────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────│
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@
 <strong>👩🏾‍💻 Live streams : ...</strong><br><br>
    <a href="#"><img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px"></a>  
   
-│────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰────────│
+│────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────│
 </p>
 
 
@@ -36,6 +35,7 @@
 │
 │
 ├─▣ <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+                GitHubPages, Notion, Obsidian
 │
 │
 ├─▣ <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" />
@@ -44,6 +44,7 @@
 │──┤ ENGINE / TOOLS ├─────────▰▰▰
 │
 ├─▣ <p align="center"><img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" /></p>
+                OBS
 │
 │
 │
