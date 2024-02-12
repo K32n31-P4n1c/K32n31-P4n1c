@@ -7,19 +7,17 @@
 
 <p align="center">
   <strong>I'm a huge gameplay and tools programmer who loves to design and develop game-focused applications. </strong><br><br>
-│──────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰───────│
-</p>
-
-<p align="center">
-<strong>📫 How to reach me: ...    </strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/138310775390339072" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrej-burovski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a><br><br>
-<strong>👩🏾‍💻 Live streams : ...    </strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/galactic_omnivore"><img src="Assets/twitch.svg" width="30" height="30"></a>
+<strong>📫 How to reach me: ...    </strong>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://discordapp.com/users/138310775390339072" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/andrej-burovski/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a><br><br>
+<strong>👩🏾‍💻 Live streams : ...    </strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/galactic_omnivore"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white"></a>
 </p><br>
 
 <p align="center">
 │─────────▰▰▰─────────┤ 💻 <strong> Languages </strong>💻 ├─────────▰▰▰─────────│<br><br>
-▣─── <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bots&theme=dark" width="180" height="30" > &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" width="120" height="30"> ───▣<br><br>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bots&theme=dark" width="180" height="30" > &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" width="120" height="30"><br><br>
 │─────────▰▰▰─────────┤ 💻 ENGINE / TOOLS 💻 ├─────────▰▰▰─────────│<br><br>
-▣─── <img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" width="150" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" width="90" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github&theme=dark"width="90" height="30"> ───▣ <br><br>
+<img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" width="150" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" width="90" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github&theme=dark"width="90" height="30"><br><br>
 </p>
 
 <p align="center">
