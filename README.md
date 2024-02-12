@@ -11,33 +11,27 @@
 </p>
 
 <p align="center">
-<strong>📫 How to reach me: ...</strong><br><br>
-  <a href="https://discordapp.com/users/138310775390339072" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="https://www.linkedin.com/in/andrej-burovski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br><br>
-<strong>👩🏾‍💻 Live streams : ...</strong><br><br>
-   <a href="https://www.twitch.tv/galactic_omnivore"><img src="Assets/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px"  width="50" height="50"></a>  
+<strong>📫 How to reach me: ...    </strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discordapp.com/users/138310775390339072" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="30" height="30"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/andrej-burovski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="30" height="30"></a><br><br>
+<strong>👩🏾‍💻 Live streams : ...    </strong>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.twitch.tv/galactic_omnivore"><img src="Assets/twitch.svg" width="30" height="30"></a>
+</p><br>
+
+<p align="center">
+│─────────▰▰▰─────────┤ 💻 <strong> Languages </strong>💻 ├─────────▰▰▰─────────│<br><br>
+▣─── <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bots&theme=dark" width="180" height="30" > &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="30" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" width="120" height="30"> ───▣<br><br>
+│─────────▰▰▰─────────┤ 💻 ENGINE / TOOLS 💻 ├─────────▰▰▰─────────│<br><br>
+▣─── <img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" width="150" height="30"> &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" width="90" height="30"> ;&nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github&theme=dark"width="90" height="30"> ───▣ <br><br>
 </p>
 
 <p align="center">
-│─────────▰▰▰─────────┤ 💻 Technologies & Tools 💻 ├─────────▰▰▰─────────│<br><br>
-│─────────▰▰▰─────────┤ 💻 Languages 💻 ├─────────▰▰▰─────────│<br><br>
-▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bots&theme=dark" /> ▣──────────▰▰▰ <br><br>
-▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /> ▣──────────▰▰▰ <br><br>
-▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" /> ▣──────────▰▰▰ <br><br>
-│─────────▰▰▰─────────┤ 💻 ENGINE / TOOLS 💻 ├─────────▰▰▰─────────│<br><br>
-▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" /> ▣──────────▰▰▰ <br><br>
-▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" /> ▣──────────▰▰▰ <br><br>
-▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> ▣──────────▰▰▰ <br><br>
-
-│──────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰───────│
-</p>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K32n31-P4n1c&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K32n31-P4n1c&layout=compact&include_all_commits=true&theme=blue-green&hide_border=true&langs_count=8" />
 </a>
+</p>
 
-### Github Profile Views
-![Visitor Count](https://profile-counter.glitch.me/{K32n31-P4n1c}/count.svg)
+
+### Github Profile Views! 
+[Visitor Count](https://profile-counter.glitch.me/{K32n31-P4n1c}/count.svg)
+
