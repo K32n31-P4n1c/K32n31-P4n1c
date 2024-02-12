@@ -16,47 +16,21 @@
   <a href="https://www.linkedin.com/in/andrej-burovski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br><br>
 <strong>👩🏾‍💻 Live streams : ...</strong><br><br>
    <a href="https://www.twitch.tv/galactic_omnivore"><img src="Assets/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px"  width="50" height="50"></a>  
-  
-│──────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰───────│
 </p>
 
+<p align="center">
+│─────────▰▰▰─────────┤ 💻 Technologies & Tools 💻 ├─────────▰▰▰─────────│<br><br>
+│─────────▰▰▰─────────┤ 💻 Languages 💻 ├─────────▰▰▰─────────│<br><br>
+▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bots&theme=dark" /> ▣──────────▰▰▰ <br><br>
+▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=mysql&theme=dark" /> ▣──────────▰▰▰ <br><br>
+▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" /> ▣──────────▰▰▰ <br><br>
+│─────────▰▰▰─────────┤ 💻 ENGINE / TOOLS 💻 ├─────────▰▰▰─────────│<br><br>
+▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" /> ▣──────────▰▰▰ <br><br>
+▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" /> ▣──────────▰▰▰ <br><br>
+▰▰▰──────────▣ <img src="https://skillicons.dev/icons?i=git,github&theme=dark" /> ▣──────────▰▰▰ <br><br>
 
-
-
-
-
-
-┌──┤ 💻 Technologies & Tools ├─────────▰▰▰─────────▰▰▰─────────│
-│
-│
-│──┤ LANGUAGES ├─────────▰▰▰
-│
-├─▣ <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,bots&theme=dark" />
-│
-│
-├─▣ <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-                GitHubPages, Notion, Obsidian
-│
-│
-├─▣ <img src="https://skillicons.dev/icons?i=html,css,md&theme=dark" />
-│
-│
-│──┤ ENGINE / TOOLS ├─────────▰▰▰
-│
-├─▣ <p align="center"><img src="https://skillicons.dev/icons?i=unreal,unity,gamemakerstudio,blender&theme=dark" /></p>
-                OBS
-│
-│
-│
-├─▣ <p align="center"><img src="https://skillicons.dev/icons?i=vscode,visualstudio&theme=dark" /></p>
-│
-│
-│
-├─▣ <p align="center"><img src="https://skillicons.dev/icons?i=git,github&theme=dark" /></p>
-│
-│
-│
-└───────────────────────────────▰▰▰─────────▰▰▰─────────▰▰▰─────────│
+│──────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰───────│
+</p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=K32n31-P4n1c&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true" />
