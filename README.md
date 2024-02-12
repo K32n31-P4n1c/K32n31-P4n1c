@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>I'm a huge gameplay and tools programmer who loves to design and develop game-focused applications. </strong><br><br>
-│────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────│
+│──────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰───────│
 </p>
 
 <p align="center">
@@ -15,9 +15,9 @@
   <a href="https://discordapp.com/users/138310775390339072" target="_blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
   <a href="https://www.linkedin.com/in/andrej-burovski/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a><br><br>
 <strong>👩🏾‍💻 Live streams : ...</strong><br><br>
-   <a href="#"><img src="svg/streaming/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px"></a>  
+   <a href="https://www.twitch.tv/galactic_omnivore"><img src="Assets/twitch.svg" alt="twitch" style="vertical-align:top; margin:6px 4px"  width="50" height="50"></a>  
   
-│────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────│
+│──────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰─────────▰▰▰───────│
 </p>
 
 
